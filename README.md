@@ -4,4 +4,4 @@
 
 ### Email address : gouranga.das.khulna@gmail.com
 
-#### Live link : [Click here]()
+#### Live link : [Click here](https://assignment-2-six-lovat.vercel.app/)
